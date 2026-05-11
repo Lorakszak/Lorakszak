@@ -89,20 +89,24 @@
 
     <g class="tagline">
       <text x="600" y="252">
-        &gt; agentic systems
-        <animate attributeName="visibility" values="visible;hidden;hidden;hidden;visible" keyTimes="0;0.25;0.5;0.75;1" dur="6.4s" repeatCount="indefinite" />
+        &gt; Agentic Systems
+        <animate attributeName="visibility" values="visible;hidden;hidden;hidden;hidden;visible" keyTimes="0;0.2;0.4;0.6;0.8;1" dur="10s" repeatCount="indefinite" />
       </text>
       <text x="600" y="252" visibility="hidden">
-        &gt; diffusion pipelines
-        <animate attributeName="visibility" values="hidden;visible;hidden;hidden;hidden" keyTimes="0;0.25;0.5;0.75;1" dur="6.4s" repeatCount="indefinite" />
+        &gt; Image &amp; Video Generation
+        <animate attributeName="visibility" values="hidden;visible;hidden;hidden;hidden;hidden" keyTimes="0;0.2;0.4;0.6;0.8;1" dur="10s" repeatCount="indefinite" />
       </text>
       <text x="600" y="252" visibility="hidden">
-        &gt; GCP infra
-        <animate attributeName="visibility" values="hidden;hidden;visible;hidden;hidden" keyTimes="0;0.25;0.5;0.75;1" dur="6.4s" repeatCount="indefinite" />
+        &gt; LLMs
+        <animate attributeName="visibility" values="hidden;hidden;visible;hidden;hidden;hidden" keyTimes="0;0.2;0.4;0.6;0.8;1" dur="10s" repeatCount="indefinite" />
       </text>
       <text x="600" y="252" visibility="hidden">
-        &gt; claude-code
-        <animate attributeName="visibility" values="hidden;hidden;hidden;visible;hidden" keyTimes="0;0.25;0.5;0.75;1" dur="6.4s" repeatCount="indefinite" />
+        &gt; Claude Code
+        <animate attributeName="visibility" values="hidden;hidden;hidden;visible;hidden;hidden" keyTimes="0;0.2;0.4;0.6;0.8;1" dur="10s" repeatCount="indefinite" />
+      </text>
+      <text x="600" y="252" visibility="hidden">
+        &gt; GCP &amp; Cloud Infrastructure
+        <animate attributeName="visibility" values="hidden;hidden;hidden;hidden;visible;hidden" keyTimes="0;0.2;0.4;0.6;0.8;1" dur="10s" repeatCount="indefinite" />
       </text>
     </g>
   </g>
