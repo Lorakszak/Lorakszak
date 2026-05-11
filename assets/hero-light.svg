@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Karol Roszak, Generative AI Engineer">
+  <defs>
+    <style>
+      :root, svg { color-scheme: light; }
+      .bg { fill: #f4f1ec; }
+      .rain text {
+        font-family: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+        font-size: 14px;
+        letter-spacing: 0.08em;
+        fill: #5a5660;
+        opacity: 0.12;
+        animation-name: drop;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+      }
+      @keyframes drop {
+        from { transform: translateY(-360px); }
+        to   { transform: translateY(360px); }
+      }
+      .s0  { animation-duration: 9.2s;  animation-delay: -0.3s; }
+      .s1  { animation-duration: 11.4s; animation-delay: -2.1s; }
+      .s2  { animation-duration: 8.7s;  animation-delay: -5.5s; }
+      .s3  { animation-duration: 12.6s; animation-delay: -1.2s; }
+      .s4  { animation-duration: 10.3s; animation-delay: -7.8s; }
+      .s5  { animation-duration: 13.1s; animation-delay: -3.4s; }
+      .s6  { animation-duration: 9.9s;  animation-delay: -6.2s; }
+      .s7  { animation-duration: 11.8s; animation-delay: -0.9s; }
+      .s8  { animation-duration: 8.4s;  animation-delay: -4.6s; }
+      .s9  { animation-duration: 12.2s; animation-delay: -2.7s; }
+      .s10 { animation-duration: 10.6s; animation-delay: -8.5s; }
+      .s11 { animation-duration: 13.5s; animation-delay: -1.6s; }
+      .s12 { animation-duration: 9.4s;  animation-delay: -5.0s; }
+      .s13 { animation-duration: 11.1s; animation-delay: -3.9s; }
+
+      .name {
+        font-family: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+        font-weight: 900;
+        font-size: 88px;
+        letter-spacing: 0.04em;
+      }
+      .name-front { fill: #0e0e12; }
+      .name-red   { fill: #ff0040; mix-blend-mode: multiply; animation: glitch-r 4.2s infinite steps(1, end); }
+      .name-cyan  { fill: #009999; mix-blend-mode: multiply; animation: glitch-c 4.2s infinite steps(1, end); }
+      @keyframes glitch-r {
+        0%, 88%, 100% { transform: translate(0, 0); opacity: 0.0; }
+        90%           { transform: translate(-3px, 0); opacity: 0.5; }
+        92%           { transform: translate(2px, -1px); opacity: 0.5; }
+        94%           { transform: translate(-1px, 1px); opacity: 0.4; }
+        96%           { transform: translate(0, 0); opacity: 0.0; }
+      }
+      @keyframes glitch-c {
+        0%, 88%, 100% { transform: translate(0, 0); opacity: 0.0; }
+        90%           { transform: translate(3px, 0); opacity: 0.5; }
+        92%           { transform: translate(-2px, 1px); opacity: 0.5; }
+        94%           { transform: translate(1px, -1px); opacity: 0.4; }
+        96%           { transform: translate(0, 0); opacity: 0.0; }
+      }
+
+      .subtitle {
+        font-family: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+        font-weight: 500;
+        font-size: 22px;
+        letter-spacing: 0.16em;
+        fill: #1a8a8a;
+      }
+      .tagline {
+        font-family: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+        font-weight: 400;
+        font-size: 16px;
+        fill: #5a5660;
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .rain text, .name-red, .name-cyan { animation: none !important; opacity: 0; }
+      }
+    </style>
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="2" height="2">
+      <rect width="2" height="1" fill="#c0bcb4" />
+    </pattern>
+  </defs>
+
+  <rect class="bg" width="1200" height="320" />
+
+  <g class="rain" clip-path="inset(0 0 0 0)">
+    <text class="s0"  x="40"   y="20">KAROL01@</text>
+    <text class="s1"  x="125"  y="20">!&lt;&gt;-_/</text>
+    <text class="s2"  x="210"  y="20">#LORAK[]</text>
+    <text class="s3"  x="295"  y="20">SZAK01=+</text>
+    <text class="s4"  x="380"  y="20">{}=+*^?#</text>
+    <text class="s5"  x="465"  y="20">01KAROL@</text>
+    <text class="s6"  x="550"  y="20">!#&lt;/&gt;_-</text>
+    <text class="s7"  x="635"  y="20">LORAKSZA</text>
+    <text class="s8"  x="720"  y="20">K[]=+*^?</text>
+    <text class="s9"  x="805"  y="20">#01@_KAR</text>
+    <text class="s10" x="890"  y="20">OL{}LORA</text>
+    <text class="s11" x="975"  y="20">KSZAK01_</text>
+    <text class="s12" x="1060" y="20">!&lt;&gt;-#@*</text>
+    <text class="s13" x="1145" y="20">?+=[]/{}</text>
+  </g>
+
+  <g text-anchor="middle">
+    <text class="name name-red"  x="600" y="160">KAROL ROSZAK</text>
+    <text class="name name-cyan" x="600" y="160">KAROL ROSZAK</text>
+    <text class="name name-front" x="600" y="160">KAROL ROSZAK</text>
+
+    <text class="subtitle" x="600" y="204">GENERATIVE AI ENGINEER</text>
+
+    <g class="tagline">
+      <text x="600" y="252">
+        &gt; agentic systems
+        <animate attributeName="visibility" values="visible;hidden;hidden;hidden;visible" keyTimes="0;0.25;0.5;0.75;1" dur="6.4s" repeatCount="indefinite" />
+      </text>
+      <text x="600" y="252" visibility="hidden">
+        &gt; diffusion pipelines
+        <animate attributeName="visibility" values="hidden;visible;hidden;hidden;hidden" keyTimes="0;0.25;0.5;0.75;1" dur="6.4s" repeatCount="indefinite" />
+      </text>
+      <text x="600" y="252" visibility="hidden">
+        &gt; GCP infra
+        <animate attributeName="visibility" values="hidden;hidden;visible;hidden;hidden" keyTimes="0;0.25;0.5;0.75;1" dur="6.4s" repeatCount="indefinite" />
+      </text>
+      <text x="600" y="252" visibility="hidden">
+        &gt; claude-code
+        <animate attributeName="visibility" values="hidden;hidden;hidden;visible;hidden" keyTimes="0;0.25;0.5;0.75;1" dur="6.4s" repeatCount="indefinite" />
+      </text>
+    </g>
+  </g>
+
+  <rect width="1200" height="320" fill="url(#scanlines)" opacity="0.04" />
+</svg>
