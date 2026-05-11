@@ -3,6 +3,12 @@
   <img alt="Karol Roszak, Generative AI Engineer" src="https://raw.githubusercontent.com/Lorakszak/Lorakszak/main/assets/hero-light.svg" width="100%">
 </picture>
 
+<div align="center">
+
+[ site ](https://lorakszak.com) · [ linkedin ](https://www.linkedin.com/in/lorakszak/) · [ x ](https://twitter.com/Lorakszak) · [ youtube ](https://www.youtube.com/@lorakszak) · [ linktree ](https://linktr.ee/lorakszak) · [ rss ](https://lorakszak.com/feed.xml)
+
+</div>
+
 <br>
 
 ```bash
