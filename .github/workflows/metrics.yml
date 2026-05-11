@@ -1,0 +1,44 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate dark metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Lorakszak
+          filename: metrics-dark.svg
+          template: terminal
+          base: header, activity, community, repositories
+          config_timezone: Europe/Warsaw
+          config_animations: no
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 1%
+          plugin_languages_colors: 0:f4f1ec, 1:c9c5be, 2:8a8a92, 3:6a6a74, 4:44444c, 5:2a2a30
+
+      - name: Generate light metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Lorakszak
+          filename: metrics-light.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Europe/Warsaw
+          config_animations: no
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 1%
+          plugin_languages_colors: 0:0e0e12, 1:3a3640, 2:5a5660, 3:7a7680, 4:c0bcb4, 5:e8e4dd
