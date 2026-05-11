@@ -24,7 +24,8 @@ lorakszak.com/  personal site + blog
 
 ```
 core      python · fastapi · pytorch · docker · gcp · ci/cd
-ai eng    claude code · codex · crewai · langgraph · vllm · rag
+ai dev    claude code · codex · opencode · spec-driven · sub-agent
+ai orch   crewai · langchain · langgraph · ollama · vllm · rag
 genai     comfyui · flux · sdxl · wan · qwen-image · kohya · lora
 cloud     gcp (gke, vertex, gcs) · runpod · replicate
 data      postgres · chromadb · pinecone
@@ -37,26 +38,10 @@ llms      claude · gpt · gemini · llama · mistral · qwen · deepseek
 
 ### Stats
 
-<table>
-<tr>
-<td>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lorakszak&show_icons=true&hide_border=true&bg_color=040408&title_color=9affff&text_color=f4f1ec&icon_color=9affff&include_all_commits=true&count_private=false">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Lorakszak&show_icons=true&hide_border=true&bg_color=f4f1ec&title_color=1a8a8a&text_color=0e0e12&icon_color=1a8a8a&include_all_commits=true&count_private=false">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lorakszak/Lorakszak/main/metrics-dark.svg">
+  <img alt="Profile metrics" src="https://raw.githubusercontent.com/Lorakszak/Lorakszak/main/metrics-light.svg" width="100%">
 </picture>
-
-</td>
-<td>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorakszak&layout=compact&hide_border=true&bg_color=040408&title_color=9affff&text_color=f4f1ec&langs_count=8">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorakszak&layout=compact&hide_border=true&bg_color=f4f1ec&title_color=1a8a8a&text_color=0e0e12&langs_count=8">
-</picture>
-
-</td>
-</tr>
-</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lorakszak/Lorakszak/output/snake-dark.svg">
