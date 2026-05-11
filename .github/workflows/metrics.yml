@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Lorakszak
           filename: metrics-dark.svg
-          template: terminal
+          template: classic
           base: header, activity, community, repositories
           config_timezone: Europe/Warsaw
           config_animations: no
@@ -27,6 +27,16 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_threshold: 1%
           plugin_languages_colors: 0:f4f1ec, 1:c9c5be, 2:8a8a92, 3:6a6a74, 4:44444c, 5:2a2a30
+          extras_css: |
+            body, .container { background: #040408 !important; color: #f4f1ec !important; }
+            .header, .header > * { background: #040408 !important; color: #f4f1ec !important; }
+            h2, h3, h4, .title { color: #f4f1ec !important; }
+            a, a:link, a:visited, a:hover { color: #f4f1ec !important; }
+            .text-muted, .muted, .text-secondary, .small { color: #c9c5be !important; }
+            .octicon, svg.octicon, .Octicon { fill: #c9c5be !important; }
+            .bar { background: #1a1a22 !important; }
+            .field, .stat, .label { color: #f4f1ec !important; }
+            hr, .border { border-color: #1a1a22 !important; }
 
       - name: Generate light metrics
         uses: lowlighter/metrics@latest

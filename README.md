@@ -5,7 +5,11 @@
 
 <div align="center">
 
-[ site ](https://lorakszak.com) · [ linkedin ](https://www.linkedin.com/in/lorakszak/) · [ x ](https://twitter.com/Lorakszak) · [ youtube ](https://www.youtube.com/@lorakszak) · [ linktree ](https://linktr.ee/lorakszak) · [ rss ](https://lorakszak.com/feed.xml)
+[![lorakszak.com](https://img.shields.io/badge/lorakszak.com-040408?style=for-the-badge&labelColor=040408)](https://lorakszak.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-040408?style=for-the-badge&logo=linkedin&logoColor=f4f1ec&labelColor=040408)](https://www.linkedin.com/in/lorakszak/)
+[![YouTube](https://img.shields.io/badge/youtube-040408?style=for-the-badge&logo=youtube&logoColor=f4f1ec&labelColor=040408)](https://www.youtube.com/@lorakszak)
+[![X](https://img.shields.io/badge/x-040408?style=for-the-badge&logo=x&logoColor=f4f1ec&labelColor=040408)](https://twitter.com/Lorakszak)
+[![RSS](https://img.shields.io/badge/rss-040408?style=for-the-badge&logo=rss&logoColor=f4f1ec&labelColor=040408)](https://lorakszak.com/feed.xml)
 
 </div>
 
@@ -61,11 +65,3 @@ llms      claude · gpt · gemini · llama · mistral · qwen · deepseek
 - **Multi-Agent Systems with CrewAI** / DeepLearning.AI / Mar 2026
 - **Google Cloud Associate Cloud Engineer** / Google / Feb 2026
 - **Leading People and Teams** / University of Michigan / Oct 2025
-
----
-
-<div align="center">
-
-[ site ](https://lorakszak.com) · [ linkedin ](https://www.linkedin.com/in/lorakszak/) · [ x ](https://twitter.com/Lorakszak) · [ youtube ](https://www.youtube.com/@lorakszak) · [ linktree ](https://linktr.ee/lorakszak) · [ rss ](https://lorakszak.com/feed.xml)
-
-</div>
