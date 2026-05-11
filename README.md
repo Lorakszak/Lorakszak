@@ -17,12 +17,12 @@
 
 ```bash
 $ whoami
-karol@lorakszak.com · Generative AI Engineer · Poznań, PL (CET)
+Karol Roszak · @lorakszak · Generative AI Engineer · PL (CET)
 
 $ cat profile.txt
-5+ yrs shipping production AI systems end-to-end.
+5+ years designing and shipping production AI systems end to end for clients across US, UK and EU.
 Agentic workflows · multi-modal pipelines · diffusion fine-tuning · GCP serving.
-Currently independent. Available for contract work.
+Currently independent. Open to collaboration.
 
 $ ls projects/
 client-work/    private · NDA
