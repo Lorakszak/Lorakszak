@@ -5,11 +5,11 @@
 
 <div align="center">
 
-[![lorakszak.com](https://img.shields.io/badge/lorakszak.com-040408?style=for-the-badge&labelColor=040408)](https://lorakszak.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-040408?style=for-the-badge&logo=linkedin&logoColor=f4f1ec&labelColor=040408)](https://www.linkedin.com/in/lorakszak/)
-[![YouTube](https://img.shields.io/badge/youtube-040408?style=for-the-badge&logo=youtube&logoColor=f4f1ec&labelColor=040408)](https://www.youtube.com/@lorakszak)
-[![X](https://img.shields.io/badge/x-040408?style=for-the-badge&logo=x&logoColor=f4f1ec&labelColor=040408)](https://twitter.com/Lorakszak)
-[![RSS](https://img.shields.io/badge/rss-040408?style=for-the-badge&logo=rss&logoColor=f4f1ec&labelColor=040408)](https://lorakszak.com/feed.xml)
+[![lorakszak.com](https://img.shields.io/badge/lorakszak.com-040408?style=for-the-badge&logo=safari&logoColor=f4f1ec&labelColor=040408#gh-dark-mode-only)](https://lorakszak.com)[![lorakszak.com](https://img.shields.io/badge/lorakszak.com-f4f1ec?style=for-the-badge&logo=safari&logoColor=0e0e12&labelColor=f4f1ec#gh-light-mode-only)](https://lorakszak.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-040408?style=for-the-badge&logo=linkedin&logoColor=f4f1ec&labelColor=040408#gh-dark-mode-only)](https://www.linkedin.com/in/lorakszak/)[![LinkedIn](https://img.shields.io/badge/linkedin-f4f1ec?style=for-the-badge&logo=linkedin&logoColor=0e0e12&labelColor=f4f1ec#gh-light-mode-only)](https://www.linkedin.com/in/lorakszak/)
+[![YouTube](https://img.shields.io/badge/youtube-040408?style=for-the-badge&logo=youtube&logoColor=f4f1ec&labelColor=040408#gh-dark-mode-only)](https://www.youtube.com/@lorakszak)[![YouTube](https://img.shields.io/badge/youtube-f4f1ec?style=for-the-badge&logo=youtube&logoColor=0e0e12&labelColor=f4f1ec#gh-light-mode-only)](https://www.youtube.com/@lorakszak)
+[![X](https://img.shields.io/badge/x-040408?style=for-the-badge&logo=x&logoColor=f4f1ec&labelColor=040408#gh-dark-mode-only)](https://twitter.com/Lorakszak)[![X](https://img.shields.io/badge/x-f4f1ec?style=for-the-badge&logo=x&logoColor=0e0e12&labelColor=f4f1ec#gh-light-mode-only)](https://twitter.com/Lorakszak)
+[![RSS](https://img.shields.io/badge/rss-040408?style=for-the-badge&logo=rss&logoColor=f4f1ec&labelColor=040408#gh-dark-mode-only)](https://lorakszak.com/feed.xml)[![RSS](https://img.shields.io/badge/rss-f4f1ec?style=for-the-badge&logo=rss&logoColor=0e0e12&labelColor=f4f1ec#gh-light-mode-only)](https://lorakszak.com/feed.xml)
 
 </div>
 
