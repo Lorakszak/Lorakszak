@@ -7,14 +7,14 @@
         font-family: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
         font-size: 14px;
         letter-spacing: 0.08em;
-        fill: #9affff;
-        opacity: 0.14;
+        fill: #8a8a92;
+        opacity: 0.18;
         animation-name: drop;
         animation-iteration-count: infinite;
         animation-timing-function: linear;
       }
       @keyframes drop {
-        from { transform: translateY(-360px); }
+        from { transform: translateY(-260px); }
         to   { transform: translateY(360px); }
       }
       .s0  { animation-duration: 9.2s;  animation-delay: -0.3s; }
@@ -61,7 +61,7 @@
         font-weight: 500;
         font-size: 22px;
         letter-spacing: 0.16em;
-        fill: #9affff;
+        fill: #f4f1ec;
       }
       .tagline {
         font-family: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
@@ -81,21 +81,21 @@
 
   <rect class="bg" width="1200" height="320" />
 
-  <g class="rain" clip-path="inset(0 0 0 0)">
-    <text class="s0"  x="40"   y="20">KAROL01@</text>
-    <text class="s1"  x="125"  y="20">!&lt;&gt;-_/</text>
-    <text class="s2"  x="210"  y="20">#LORAK[]</text>
-    <text class="s3"  x="295"  y="20">SZAK01=+</text>
-    <text class="s4"  x="380"  y="20">{}=+*^?#</text>
-    <text class="s5"  x="465"  y="20">01KAROL@</text>
-    <text class="s6"  x="550"  y="20">!#&lt;/&gt;_-</text>
-    <text class="s7"  x="635"  y="20">LORAKSZA</text>
-    <text class="s8"  x="720"  y="20">K[]=+*^?</text>
-    <text class="s9"  x="805"  y="20">#01@_KAR</text>
-    <text class="s10" x="890"  y="20">OL{}LORA</text>
-    <text class="s11" x="975"  y="20">KSZAK01_</text>
-    <text class="s12" x="1060" y="20">!&lt;&gt;-#@*</text>
-    <text class="s13" x="1145" y="20">?+=[]/{}</text>
+  <g class="rain">
+    <text class="s0"  x="40"   y="14">K<tspan x="40"   dy="14">A</tspan><tspan x="40"   dy="14">R</tspan><tspan x="40"   dy="14">O</tspan><tspan x="40"   dy="14">L</tspan><tspan x="40"   dy="14">0</tspan><tspan x="40"   dy="14">1</tspan><tspan x="40"   dy="14">_</tspan><tspan x="40"   dy="14">L</tspan><tspan x="40"   dy="14">R</tspan><tspan x="40"   dy="14">K</tspan><tspan x="40"   dy="14">S</tspan><tspan x="40"   dy="14">Z</tspan><tspan x="40"   dy="14">@</tspan></text>
+    <text class="s1"  x="125"  y="14">!<tspan x="125"  dy="14">&lt;</tspan><tspan x="125"  dy="14">&gt;</tspan><tspan x="125"  dy="14">-</tspan><tspan x="125"  dy="14">_</tspan><tspan x="125"  dy="14">/</tspan><tspan x="125"  dy="14">[</tspan><tspan x="125"  dy="14">]</tspan><tspan x="125"  dy="14">{</tspan><tspan x="125"  dy="14">}</tspan><tspan x="125"  dy="14">=</tspan><tspan x="125"  dy="14">+</tspan><tspan x="125"  dy="14">*</tspan><tspan x="125"  dy="14">^</tspan></text>
+    <text class="s2"  x="210"  y="14">#<tspan x="210"  dy="14">L</tspan><tspan x="210"  dy="14">O</tspan><tspan x="210"  dy="14">R</tspan><tspan x="210"  dy="14">A</tspan><tspan x="210"  dy="14">K</tspan><tspan x="210"  dy="14">S</tspan><tspan x="210"  dy="14">Z</tspan><tspan x="210"  dy="14">A</tspan><tspan x="210"  dy="14">K</tspan><tspan x="210"  dy="14">0</tspan><tspan x="210"  dy="14">1</tspan><tspan x="210"  dy="14">@</tspan><tspan x="210"  dy="14">_</tspan></text>
+    <text class="s3"  x="295"  y="14">S<tspan x="295"  dy="14">Z</tspan><tspan x="295"  dy="14">A</tspan><tspan x="295"  dy="14">K</tspan><tspan x="295"  dy="14">0</tspan><tspan x="295"  dy="14">1</tspan><tspan x="295"  dy="14">=</tspan><tspan x="295"  dy="14">+</tspan><tspan x="295"  dy="14">K</tspan><tspan x="295"  dy="14">A</tspan><tspan x="295"  dy="14">R</tspan><tspan x="295"  dy="14">O</tspan><tspan x="295"  dy="14">L</tspan><tspan x="295"  dy="14">@</tspan></text>
+    <text class="s4"  x="380"  y="14">{<tspan x="380"  dy="14">}</tspan><tspan x="380"  dy="14">=</tspan><tspan x="380"  dy="14">+</tspan><tspan x="380"  dy="14">*</tspan><tspan x="380"  dy="14">^</tspan><tspan x="380"  dy="14">?</tspan><tspan x="380"  dy="14">#</tspan><tspan x="380"  dy="14">@</tspan><tspan x="380"  dy="14">_</tspan><tspan x="380"  dy="14">K</tspan><tspan x="380"  dy="14">A</tspan><tspan x="380"  dy="14">R</tspan><tspan x="380"  dy="14">0</tspan></text>
+    <text class="s5"  x="465"  y="14">1<tspan x="465"  dy="14">K</tspan><tspan x="465"  dy="14">A</tspan><tspan x="465"  dy="14">R</tspan><tspan x="465"  dy="14">O</tspan><tspan x="465"  dy="14">L</tspan><tspan x="465"  dy="14">@</tspan><tspan x="465"  dy="14">L</tspan><tspan x="465"  dy="14">O</tspan><tspan x="465"  dy="14">R</tspan><tspan x="465"  dy="14">A</tspan><tspan x="465"  dy="14">K</tspan><tspan x="465"  dy="14">S</tspan><tspan x="465"  dy="14">Z</tspan></text>
+    <text class="s6"  x="550"  y="14">!<tspan x="550"  dy="14">#</tspan><tspan x="550"  dy="14">&lt;</tspan><tspan x="550"  dy="14">/</tspan><tspan x="550"  dy="14">&gt;</tspan><tspan x="550"  dy="14">_</tspan><tspan x="550"  dy="14">-</tspan><tspan x="550"  dy="14">=</tspan><tspan x="550"  dy="14">K</tspan><tspan x="550"  dy="14">A</tspan><tspan x="550"  dy="14">R</tspan><tspan x="550"  dy="14">O</tspan><tspan x="550"  dy="14">L</tspan><tspan x="550"  dy="14">@</tspan></text>
+    <text class="s7"  x="635"  y="14">L<tspan x="635"  dy="14">O</tspan><tspan x="635"  dy="14">R</tspan><tspan x="635"  dy="14">A</tspan><tspan x="635"  dy="14">K</tspan><tspan x="635"  dy="14">S</tspan><tspan x="635"  dy="14">Z</tspan><tspan x="635"  dy="14">A</tspan><tspan x="635"  dy="14">K</tspan><tspan x="635"  dy="14">0</tspan><tspan x="635"  dy="14">1</tspan><tspan x="635"  dy="14">@</tspan><tspan x="635"  dy="14">_</tspan><tspan x="635"  dy="14">#</tspan></text>
+    <text class="s8"  x="720"  y="14">[<tspan x="720"  dy="14">]</tspan><tspan x="720"  dy="14">=</tspan><tspan x="720"  dy="14">+</tspan><tspan x="720"  dy="14">*</tspan><tspan x="720"  dy="14">^</tspan><tspan x="720"  dy="14">?</tspan><tspan x="720"  dy="14">#</tspan><tspan x="720"  dy="14">!</tspan><tspan x="720"  dy="14">K</tspan><tspan x="720"  dy="14">A</tspan><tspan x="720"  dy="14">R</tspan><tspan x="720"  dy="14">O</tspan><tspan x="720"  dy="14">L</tspan></text>
+    <text class="s9"  x="805"  y="14">@<tspan x="805"  dy="14">#</tspan><tspan x="805"  dy="14">0</tspan><tspan x="805"  dy="14">1</tspan><tspan x="805"  dy="14">@</tspan><tspan x="805"  dy="14">_</tspan><tspan x="805"  dy="14">K</tspan><tspan x="805"  dy="14">A</tspan><tspan x="805"  dy="14">R</tspan><tspan x="805"  dy="14">O</tspan><tspan x="805"  dy="14">L</tspan><tspan x="805"  dy="14">{</tspan><tspan x="805"  dy="14">}</tspan><tspan x="805"  dy="14">L</tspan></text>
+    <text class="s10" x="890"  y="14">O<tspan x="890"  dy="14">R</tspan><tspan x="890"  dy="14">A</tspan><tspan x="890"  dy="14">K</tspan><tspan x="890"  dy="14">S</tspan><tspan x="890"  dy="14">Z</tspan><tspan x="890"  dy="14">A</tspan><tspan x="890"  dy="14">K</tspan><tspan x="890"  dy="14">0</tspan><tspan x="890"  dy="14">1</tspan><tspan x="890"  dy="14">_</tspan><tspan x="890"  dy="14">@</tspan><tspan x="890"  dy="14">!</tspan><tspan x="890"  dy="14">?</tspan></text>
+    <text class="s11" x="975"  y="14">+<tspan x="975"  dy="14">=</tspan><tspan x="975"  dy="14">[</tspan><tspan x="975"  dy="14">]</tspan><tspan x="975"  dy="14">/</tspan><tspan x="975"  dy="14">{</tspan><tspan x="975"  dy="14">}</tspan><tspan x="975"  dy="14">&lt;</tspan><tspan x="975"  dy="14">&gt;</tspan><tspan x="975"  dy="14">_</tspan><tspan x="975"  dy="14">K</tspan><tspan x="975"  dy="14">A</tspan><tspan x="975"  dy="14">R</tspan><tspan x="975"  dy="14">0</tspan></text>
+    <text class="s12" x="1060" y="14">!<tspan x="1060" dy="14">&lt;</tspan><tspan x="1060" dy="14">&gt;</tspan><tspan x="1060" dy="14">-</tspan><tspan x="1060" dy="14">#</tspan><tspan x="1060" dy="14">@</tspan><tspan x="1060" dy="14">*</tspan><tspan x="1060" dy="14">?</tspan><tspan x="1060" dy="14">+</tspan><tspan x="1060" dy="14">/</tspan><tspan x="1060" dy="14">=</tspan><tspan x="1060" dy="14">[</tspan><tspan x="1060" dy="14">]</tspan><tspan x="1060" dy="14">/</tspan></text>
+    <text class="s13" x="1145" y="14">?<tspan x="1145" dy="14">+</tspan><tspan x="1145" dy="14">=</tspan><tspan x="1145" dy="14">[</tspan><tspan x="1145" dy="14">]</tspan><tspan x="1145" dy="14">/</tspan><tspan x="1145" dy="14">{</tspan><tspan x="1145" dy="14">}</tspan><tspan x="1145" dy="14">*</tspan><tspan x="1145" dy="14">K</tspan><tspan x="1145" dy="14">A</tspan><tspan x="1145" dy="14">R</tspan><tspan x="1145" dy="14">O</tspan><tspan x="1145" dy="14">L</tspan></text>
   </g>
 
   <g text-anchor="middle">
