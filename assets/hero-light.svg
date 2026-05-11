@@ -39,22 +39,6 @@
         letter-spacing: 0.04em;
       }
       .name-front { fill: #0e0e12; }
-      .name-red   { fill: #ff0040; mix-blend-mode: multiply; animation: glitch-r 4.2s infinite steps(1, end); }
-      .name-cyan  { fill: #009999; mix-blend-mode: multiply; animation: glitch-c 4.2s infinite steps(1, end); }
-      @keyframes glitch-r {
-        0%, 88%, 100% { transform: translate(0, 0); opacity: 0.0; }
-        90%           { transform: translate(-3px, 0); opacity: 0.5; }
-        92%           { transform: translate(2px, -1px); opacity: 0.5; }
-        94%           { transform: translate(-1px, 1px); opacity: 0.4; }
-        96%           { transform: translate(0, 0); opacity: 0.0; }
-      }
-      @keyframes glitch-c {
-        0%, 88%, 100% { transform: translate(0, 0); opacity: 0.0; }
-        90%           { transform: translate(3px, 0); opacity: 0.5; }
-        92%           { transform: translate(-2px, 1px); opacity: 0.5; }
-        94%           { transform: translate(1px, -1px); opacity: 0.4; }
-        96%           { transform: translate(0, 0); opacity: 0.0; }
-      }
 
       .subtitle {
         font-family: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
@@ -71,7 +55,7 @@
       }
 
       @media (prefers-reduced-motion: reduce) {
-        .rain text, .name-red, .name-cyan { animation: none !important; opacity: 0; }
+        .rain text { animation: none !important; }
       }
     </style>
     <pattern id="scanlines" patternUnits="userSpaceOnUse" width="2" height="2">
@@ -99,8 +83,6 @@
   </g>
 
   <g text-anchor="middle">
-    <text class="name name-red"  x="600" y="160">KAROL ROSZAK</text>
-    <text class="name name-cyan" x="600" y="160">KAROL ROSZAK</text>
     <text class="name name-front" x="600" y="160">KAROL ROSZAK</text>
 
     <text class="subtitle" x="600" y="204">GENERATIVE AI ENGINEER</text>

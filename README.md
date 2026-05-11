@@ -49,6 +49,8 @@ llms      claude · gpt · gemini · llama · mistral · qwen · deepseek
   <img alt="Profile metrics" src="https://raw.githubusercontent.com/Lorakszak/Lorakszak/main/metrics-light.svg" width="100%">
 </picture>
 
+### Activity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lorakszak/Lorakszak/output/snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Lorakszak/Lorakszak/output/snake-light.svg" width="100%">
